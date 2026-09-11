@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Problem1_ShippingCalculator/Problem1_ShippingCalculator.csproj" />
+  <Project Path="Problem2_RestaurantOrder/Problem2_RestaurantOrder.csproj" />
+  <Project Path="Problem3_RegistrationValidator/Problem3_RegistrationValidator.csproj" />
+  <Project Path="Problem4_ProductSearch/Problem4_ProductSearch.csproj" />
+</Solution>
